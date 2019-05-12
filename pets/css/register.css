@@ -1,0 +1,102 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none; }
+
+.margin {
+  width: 1200px;
+  margin: 0 auto; }
+
+header {
+  border-bottom: 1px solid #ccc;
+  height: 40px; }
+  header .header-l {
+    overflow: hidden;
+    float: left; }
+  header .header-r {
+    overflow: hidden;
+    float: right; }
+  header a {
+    float: left;
+    font: 14px/40px  "";
+    margin: 0 20px;
+    color: #000;
+    text-decoration: none; }
+  header a:hover {
+    color: #ee5533;
+    text-decoration: underline; }
+
+main {
+  background: #eee;
+  
+  padding: 30px 20px; }
+  main .h3 {
+    width: 120px;
+    font: 24px/40px "";
+    color: #666;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    border-bottom: 3px solid #ee5533; }
+  main .m-l {
+    background: #fff;
+    border: 1px solid #999;
+    overflow: hidden; }
+    main .m-l .m-r {
+      float: right;
+      width: 300px;
+      height: 100%; }
+      main .m-l .m-r img{
+        height: 100%;
+      }
+    main .m-l .l-box {
+      margin: 80px 50px;
+      float: left; }
+      main .m-l .l-box h4 {
+        font: 24px/50px "";
+        width: 120px;
+        color: #666;
+        border-bottom: 3px solid #ee5533;
+        margin-bottom: 20px; }
+    main .m-l .l-box > div {
+      height: 40px;
+      font: 14px/40px "";
+      margin-top: 10px; }
+      main .m-l .l-box > div span {
+        color: #666;
+        float: left; }
+      main .m-l .l-box > div input {
+        float: left;
+        height: 38px;
+        width: 250px;
+        padding: 0 10px;
+        border: 1px solid #ccc;
+        outline: none; }
+      main .m-l .l-box > div div {
+        float: left;
+        margin-left: 10px;
+        display: none; }
+    main .m-l .box-4 a {
+      display: block;
+      font: 14px/40px  "";
+      color: #fff;
+      background: #ee5533;
+      text-align: center;
+      width: 210px;
+      margin-left: 60px;
+      text-decoration: none; }
+.box-1 .t1{color: red}
+.box-1 .t2{color: greenyellow}
+.box-1 .t3{color: red}
+.box-1 .t4{color: red}
+
+.box-2 .p1{color: red}
+.box-2 .p2{color: greenyellow}
+.box-2 .p3{color: red}
+
+.box-3 .pt1{color: red}
+.box-3 .pt2{color: greenyellow}
+.box-3 .pt3{color: red}
+
+.m-l .success{display: none;float: left;margin: 100px;}
+.m-l .success h3{font: 26px/50px "";color: #ee5533;}
+.m-l .success p{font: 20px/50px "";color: #666;}

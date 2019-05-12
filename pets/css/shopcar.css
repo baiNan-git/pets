@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+.shop_car{margin-left: 30px;}
+.shop_car .wu{width: 100%;text-align: center;font: 30px/300px "";color: #ee5533;border: 1px solid #ccc;display: none;margin: 10px 0;}
+
+.shop_car h3{font: 16px/50px "";}
+.shop_car .shop_list{}
+.shop_car  .shop_t{overflow: hidden;border-top: 2px solid #ee5533;background: #ddd;height: 36px;color: #666;padding: 0 10px;}
+.shop_car  .shop_t .shop_top{float: left;text-align: center;font: 14px/36px "";}
+.shop_car  .shop_t .quan { }
+.shop_car  .shop_t .quan input{width: 16px;height: 16px;line-height: 36px;}
+.shop_car  .shop_t .quan a{margin-left: 5px;}
+.shop_car  .shop_t .t1{width: 250px;margin-right: 280px;margin-left: 20px;}
+.shop_car  .shop_t .t2{width: 80px;margin-right: 50px;}
+.shop_car  .shop_t .t3{width: 80px;margin-right: 50px;}
+.shop_car  .shop_t .t4{width: 80px;margin-right: 50px;}
+.shop_car  .shop_t .t5{width: 80px;margin-right: 50px;}
+
+.shop_car .shop_list{}
+.shop_car .shop_list .list1{padding: 10px;border: 1px solid #ccc;margin: 20px 0;display: flex;align-items: center;}
+.shop_car .shop_list .list1 .check{width: 16px;height: 16px;}
+.shop_car .shop_list .list1 .imgs{width: 80px;height: 80px;margin: 0 10px;}
+.shop_car .shop_list .list1 .user{width: 250px;margin: 0 220px 0 20px;align-self: flex-start;font-size: 14px;}
+.shop_car .shop_list .list1 .price{width: 80px;margin-right: 50px;color: #333;font-size: 16px;text-align: center;}
+.shop_car .shop_list .list1 .num{width: 40px;margin:0 70px 0 20px;text-align: center;}
+.shop_car .shop_list .list1 .money{width: 80px;margin-right: 50px;color: #ee5533;font-size: 16px;text-align: center;}
+.shop_car .shop_list .list1 .delete{width: 80px;border: none;background: none;cursor: pointer;color: blueviolet;}
+
+.shop_car .list2{background: #ccc;height: 40px;margin: 20px 0;display: flex;align-items: center;padding:0 10px;}
+.shop_car .list2 .list2_1 .check{width: 16px;height: 16px;}
+.shop_car .list2 .list2_1 .quan{color: #333;}
+.shop_car .list2 .dele{margin-left: 20px;cursor: pointer;}
+.shop_car .list2 .delete{margin-left: 20px;cursor: pointer;}
+.shop_car .list2 .choice{margin-left: 700px;}
+.shop_car .list2 .choice span{color:#ee5533; }
+.shop_car .list2 .price{float: right;margin: 0 20px;}
+.shop_car .list2 .resule{float: right;color: #fff;background: #666;padding: 0 10px;font: 16px/40px "";margin: 0 20px;cursor: pointer;}
+
+
+
+
+
+
+
+
+
+
+
+

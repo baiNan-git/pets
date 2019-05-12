@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+body{background: #eee;}
+.margin{width: 1000px;}
+.login{}
+.login .kong{height: 100px;}
+.login .login_t{overflow: hidden;}
+/* .login .login_t .logo{background: url(../images/bg.png)no-repeat left;width: 181px;height: 110px;background-position: 0 -64px;
+display: block;float: left;} */
+.login .login_t h3{float: left;font:600 24px/40px "";color: #666;margin-left: 10px;}
+
+.login .login_c{background:#fff;overflow: hidden;}
+.login .login_c .bn{float: left;margin: 10px;width: 450px;height: 350px;}
+.login .login_c .form{float: left;border: 1px solid #ccc;width: 410px;margin: 50px 30px;padding: 20px;}
+.login .login_c .form h3{font:600 16px/30px "";text-align: center;display: flex;align-items: center;}
+.login .login_c .form .f1{overflow: hidden;}
+.login .login_c .form .f2{overflow: hidden;}
+.login .login_c .form .f1 span{float: left;font: 14px/30px "";margin: 10px ;color: red;display: none;}
+.login .login_c .form .f2 span{float: left;font: 14px/30px "";margin: 10px ;color: red;display: none;}
+.login .login_c .form .user{width: 250px;height: 30px;margin: 10px 0;font: 14px/30px "";text-indent: 5px;float: left;}
+.login .login_c .form .pass{width: 250px;height: 30px;font: 14px/30px "";float: left;text-indent: 5px;}
+.login .login_c .form .zi{display: flex;margin: 20px 0;padding: 0 10px;height: 30px;font: 14px/30px "";color: #666;}
+.login .login_c .form .zi .check{width: 16px;height: 16px;align-self: center;}
+.login .login_c .form .zi span{margin: 0 10px;}
+.login .login_c .form .zi .forget{margin-left: 10px;}
+.login .login_c .form .zi a:hover{color: #ee5533;}
+.login .login_c .form button{width: 250px;height: 40px;color: #fff;background: #ee5533;border: none;}
+
+
+
+
